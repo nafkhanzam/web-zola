@@ -26,7 +26,7 @@ content = 'I learn practical knowledge by just diving in and learning from my mi
 
 [[extra.list]]
 title = "Rationality over Feelings"
-content = 'I was an emotional kid. Now, I understand that rationality gives me a happier life.'
+content = 'I was an emotional kid. Now, I understand that rationality gives me happier lives.'
 
 [[extra.list]]
 title = "Always my mistakes"
@@ -34,5 +34,5 @@ content = 'I will only blame myself for anyone&apos;s mistakes. That is the most
 
 [[extra.list]]
 title = "Angry is not a solution"
-content = 'Based on my experience, I have never solved a problem by using uncontrolled emotions.'
+content = 'Based on my experience, I have never managed to solve a problem using uncontrolled emotions.'
 +++
