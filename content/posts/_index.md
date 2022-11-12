@@ -1,7 +1,7 @@
 +++
-title = "Blog"
-description = "Blog"
+title = "Posts"
+description = "Posts"
 sort_by = "date"
-paginate_by = 2
+paginate_by = 10
 template = "blog/section.html"
 +++

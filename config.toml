@@ -1,7 +1,7 @@
 # The URL the site will be built for
 base_url = "/"
 title = "nafkhanzam"
-description = "Inside of nafkhanzam's mind."
+description = "nafkhanzam main website."
 
 # The site theme to use.
 theme = "adidoks"
@@ -60,17 +60,17 @@ language_code = "en-US"
 theme_color = "#fff"
 
 # More about site's title
-title_separator = "|"  # set as |, -, _, etc
-title_addition = "Blog"
+title_separator = "-"  # set as |, -, _, etc
+title_addition = "Website"
 
 
 # Set date format in blog publish metadata
-timeformat = "%B %e, %Y" # e.g. June 14, 2021
-timezone = "America/New_York"
+timeformat = "%e %B %Y" # e.g. 14 June 2021
+timezone = "Asia/Jakarta"
 
 # Edit page on reposity or not
 edit_page = false
-docs_repo = "https://github.com/aaranxu/adidoks"
+docs_repo = "https://github.com/nafkhanzam/blog.nafkhanzam.com"
 repo_branch = "main"
 
 ## Math settings
@@ -95,7 +95,7 @@ og_locale = "en_US"
 type = "Organization"
 logo = "logo-doks.png"
 twitter = "https://twitter.com/nafkhanzam"
-linked_in = ""
+linked_in = "https://www.linkedin.com/in/nafkhanzam/"
 github = "https://github.com/nafkhanzam"
 section = "blog" # see config.extra.main~url
 ## Sitelinks Search Box
@@ -104,15 +104,15 @@ site_links_search_box = true
 
 # Menu items
 [[extra.menu.main]]
-name = "Docs"
-section = "docs"
-url = "/docs/getting-started/introduction/"
+name = "Myself"
+section = "myself"
+url = "/myself/"
 weight = 10
 
 [[extra.menu.main]]
-name = "Blog"
-section = "blog"
-url = "/blog/"
+name = "Posts"
+section = "posts"
+url = "/posts/"
 weight = 20
 
 [[extra.menu.social]]
@@ -128,9 +128,16 @@ url = "https://github.com/nafkhanzam"
 post = "v0.1.0"
 weight = 20
 
+[[extra.menu.social]]
+name = "LinkedIn"
+pre = '<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="currentColor" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 1000 1000" enable-background="new 0 0 1000 1000" xml:space="preserve"><g><g><path id="LinkedIn__x28_alt_x29_" d="M917.6,10H82.4C42.4,10,10,41.4,10,80.2v839.5c0,38.8,32.4,70.2,72.4,70.2h835.2c40,0,72.4-31.5,72.4-70.2V80.2C990,41.4,957.6,10,917.6,10z M307.1,830.3H159V387.9h148.1V830.3z M233.1,327.4h-1c-49.7,0-81.8-34-81.8-76.5c0-43.4,33.1-76.4,83.8-76.4c50.6,0,81.8,33,82.8,76.4C316.8,293.5,284.7,327.4,233.1,327.4z M840.9,830.3h-148V593.6c0-59.5-21.4-100.1-75-100.1c-41,0-65.3,27.4-75.9,53.8c-4,9.4-4.9,22.6-4.9,35.8v247.1H389c0,0,1.9-401,0-442.5h148v62.7c19.6-30.1,54.8-73.1,133.4-73.1c97.4,0,170.5,63.2,170.5,199.2V830.3L840.9,830.3z M536.1,452c0.3-0.4,0.6-0.9,1-1.4v1.4H536.1z"/></g><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/><g/></g></svg>'
+url = "https://www.linkedin.com/in/nafkhanzam/"
+post = "v0.1.0"
+weight = 20
+
 # Footer contents
 [extra.footer]
-info = 'Copyright © 2022 Nafkhanzam - All rights reserved.'
+info = 'Copyright © 2022 nafkhanzam - All rights reserved.'
 
 # [[extra.footer.nav]]
 # name = "Privacy"
