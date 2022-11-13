@@ -33,7 +33,7 @@ build_search_index = true
 # Whether to include the title of the page/section in the index
 include_title = true
 # Whether to include the description of the page/section in the index
-include_description = false
+include_description = true
 # Whether to include the rendered content of the page/section in the index
 include_content = true
 
@@ -104,15 +104,15 @@ site_links_search_box = true
 
 # Menu items
 [[extra.menu.main]]
-name = "Myself"
-section = "myself"
-url = "/myself/"
+name = "Docs"
+section = "docs"
+url = "/docs/about/introduction/"
 weight = 10
 
 [[extra.menu.main]]
-name = "Posts"
-section = "posts"
-url = "/posts/"
+name = "Blog"
+section = "blog"
+url = "/blog/"
 weight = 20
 
 [[extra.menu.social]]

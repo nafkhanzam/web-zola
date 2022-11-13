@@ -5,8 +5,8 @@ title = "Moch. Nafkhan Alzamzami"
 # The homepage contents
 [extra]
 lead = 'Also known as <b>Nafkhan</b> or <b>Camcam</b>'
-url = "/myself/"
-url_button = "Get to know me"
+url = "/docs/about/introduction//"
+url_button = "About me"
 repo_version = ""
 repo_license = ""
 repo_url = ""

@@ -1,6 +1,5 @@
 +++
-title = "Moch. Nafkhan Alzamzami"
-description = "The mindset of nafkhanzam."
+title = "nafkhanzam Documentation"
 date = 2025-05-01T08:00:00+00:00
 updated = 2021-05-01T08:00:00+00:00
 sort_by = "weight"
