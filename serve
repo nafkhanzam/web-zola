@@ -1,0 +1,1 @@
+zola serve --drafts -u localhost
