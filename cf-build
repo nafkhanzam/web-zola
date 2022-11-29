@@ -1,0 +1,8 @@
+#! /bin/bash -e
+
+if [[ -n "$CF_PAGES_BRANCH" && "$CF_PAGES_BRANCH" == "dev" ]];
+then
+	_BUILD_FLAGS=" --drafts"
+fi
+
+zola build$_BUILD_FLAGS
