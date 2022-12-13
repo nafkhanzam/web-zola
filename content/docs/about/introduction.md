@@ -6,7 +6,9 @@ weight = 1
 
 My name is Nafkhan.
 
-I'm from Bandung, Indonesia.
+I'm from Sidoarjo, Indonesia.
+
+I'm currently living in Bandung, Indonesia.
 
 I'm currently pursuing a master's degree in computer science at Institut Teknologi Bandung.
 
