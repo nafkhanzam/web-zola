@@ -5,11 +5,10 @@ title = "Moch. Nafkhan Alzamzami"
 # The homepage contents
 [extra]
 lead = 'Also known as <b>Nafkhan</b> or <b>Camcam</b>'
-url = "/docs/about/introduction//"
+url = "/docs/about/introduction/"
 url_button = "About me"
-repo_version = ""
-repo_license = ""
-repo_url = ""
+url2 = "https://storage.nafkhanzam.com/cv/main.pdf"
+url2_button = "CV"
 
 # Menu items
 [[extra.list]]
