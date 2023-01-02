@@ -138,7 +138,7 @@ weight = 20
 
 # Footer contents
 [extra.footer]
-info = 'Copyright © 2022 nafkhanzam - All rights reserved.'
+info = 'Copyright © 2023 nafkhanzam - All rights reserved.'
 
 # [[extra.footer.nav]]
 # name = "Privacy"
