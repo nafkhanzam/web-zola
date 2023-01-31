@@ -7,7 +7,7 @@ title = "Moch. Nafkhan Alzamzami"
 lead = 'Also known as <b>Nafkhan</b> or <b>Camcam</b>'
 url = "/docs/about/introduction/"
 url_button = "About me"
-url2 = "https://storage.nafkhanzam.com/cv/main.pdf"
+url2 = "https://storage.nafkhanzam.com/cv.pdf"
 url2_button = "CV"
 
 # Menu items
