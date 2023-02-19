@@ -37,5 +37,5 @@ content = 'I have never managed to solve a problem using uncontrolled emotions. 
 
 [[extra.list]]
 title = "I Hate Python with a Passion"
-content = 'Dynamically-typed programming languages are a disgrace to humanity. They shouldn&apos;t exist in the first place. I feel like I was born to fix this.'
+content = 'Dynamically-typed programming languages are a disgrace to humanity. They shouldn&apos;t exist in the first place.'
 +++
