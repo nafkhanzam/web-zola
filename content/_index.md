@@ -34,4 +34,8 @@ content = 'I will only blame myself for anyone&apos;s mistakes. That is the most
 [[extra.list]]
 title = "Anger is not a solution"
 content = 'I have never managed to solve a problem using uncontrolled emotions. I would rather focus on finding a solution.'
+
+[[extra.list]]
+title = "I Hate Python with a Passion"
+content = 'Dynamically-typed programming languages are a disgrace to humanity. They shouldn&apos;t exist in the first place. I feel like I was born to fix this.'
 +++
