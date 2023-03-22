@@ -17,7 +17,7 @@ content = 'I learn theoretical knowledge in historical order.'
 
 [[extra.list]]
 title = "Computer Scientist"
-content = 'I dedicated myself to becoming a computer science researcher.'
+content = 'I am dedicating myself to becoming a computer science researcher.'
 
 [[extra.list]]
 title = "Trial and Error"
