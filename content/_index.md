@@ -36,6 +36,14 @@ title = "Anger is not a solution"
 content = 'I have never managed to solve a problem using uncontrolled emotions. I would rather focus on finding a solution.'
 
 [[extra.list]]
+title = "The Witness (2016)"
+content = 'Is the best game.'
+
+[[extra.list]]
 title = "I Hate Python with a Passion"
 content = 'Dynamically-typed programming languages are a disgrace to humanity. They shouldn&apos;t exist in the first place.'
+
+[[extra.list]]
+title = "Whiplash (2014)"
+content = 'Is the best movie.'
 +++
