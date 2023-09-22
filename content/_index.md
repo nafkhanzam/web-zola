@@ -25,7 +25,7 @@ content = 'I learn practical knowledge by just diving in and learning from my mi
 
 [[extra.list]]
 title = "Rationality over Feelings"
-content = 'Rationality simply makes more sense. It solves problems and leads me to a peaceful life.'
+content = 'Rationality simply makes more sense. It solves problems and leads me to a peaceful life. I might unconsciously refer to Stoicism.'
 
 [[extra.list]]
 title = "Always my mistakes"
