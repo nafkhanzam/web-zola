@@ -30,15 +30,48 @@
           {% if page.extra.lead %}<p class="lead">{{ page.extra.lead | safe }}</p>{% endif %}
           {{ page.content | safe }}
         </article>
-        <script defer src="https://commento.nafkhanzam.com/js/commento.js"></script>
-        <div id="commento" style="
-          margin: 2em -2em 2em -2em;
-          padding: 2em;
-          background-color: white;
-          box-shadow: 5px 10px #888888;
-          border: 2px solid #888888;
-          border-radius: 8pt;
-        "></div>
+        <!-- <script
+          src="https://utteranc.es/client.js"
+          repo="nafkhanzam/web-zola"
+          issue-term="{{ current_path }}"
+          label="✨💬✨"
+          theme="github-light"
+          crossorigin="anonymous"
+          async>
+        </script> -->
+        <div id="comments">
+          <script>
+            // load utteranc comment
+            let theme = localStorage.getItem("theme") === 'dark' ? 'github-dark' : 'github-light';
+            let s = document.createElement('script');
+            s.src = 'https://utteranc.es/client.js';
+            s.setAttribute('repo', "nafkhanzam/web-zola");
+            s.setAttribute('issue-term', "{{ current_path }}".replaceAll("&#x2F;", "/"));
+            s.setAttribute('theme', theme);
+            s.setAttribute('crossorigin', 'anonymous');
+            s.setAttribute('async', '');
+            document.querySelector('div#comments').innerHTML = '';
+            document.querySelector('div#comments').appendChild(s);
+    
+            // auto swith utteranc theme by body class change
+            const mutationObserver = new MutationObserver((mutationsList, observer) => {
+                mutationsList.forEach(mutation => {
+                    if (mutation.attributeName === "class") {
+                        if (document.querySelector('.utterances-frame')) {
+                            const theme = mutation.target.classList.contains("dark") ? 'github-dark' : 'github-light'
+                            const message = {
+                                type: 'set-theme',
+                                theme: theme
+                            };
+                            const iframe = document.querySelector('.utterances-frame');
+                            iframe.contentWindow.postMessage(message, 'https://utteranc.es');
+                        }
+                    }
+                })
+            });
+            mutationObserver.observe(document.body, { attributes: true });
+          </script>
+        </div>
       </div>
     </div>
   </div>
