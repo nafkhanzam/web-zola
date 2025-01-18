@@ -9,6 +9,7 @@ url = "/docs/about/introduction/"
 url_button = "About me"
 url2 = "https://storage.nafkhanzam.com/cv.pdf"
 url2_button = "CV"
+url2_target = "_blank"
 
 # Menu items
 [[extra.list]]
