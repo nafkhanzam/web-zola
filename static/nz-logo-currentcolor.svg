@@ -7,10 +7,10 @@
             <g class="typst-group">
                 <g>
                     <g transform="translate(0 0)">
-                        <path class="typst-shape" fill="none" stroke="white" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M 0 0 C 0 0 0 141.73228 0 141.73228 C 0 141.73228 141.73228 141.73228 141.73228 141.73228 C 141.73228 141.73228 141.73228 0 141.73228 0 C 141.73228 0 0 0 0 0 C 0 0 0 0 0 0 Z "/>
+                        <path class="typst-shape" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M 0 0 C 0 0 0 141.73228 0 141.73228 C 0 141.73228 141.73228 141.73228 141.73228 141.73228 C 141.73228 141.73228 141.73228 0 141.73228 0 C 141.73228 0 0 0 0 0 C 0 0 0 0 0 0 Z "/>
                     </g>
                     <g transform="translate(11.338582677165354 11.338582677165364)">
-                        <path class="typst-shape" fill="none" stroke="white" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M 0 119.055115 C 0 119.055115 45.354332 59.527557 45.354332 59.527557 C 45.354332 59.527557 0 0 0 0 "/>
+                        <path class="typst-shape" fill="none" stroke="currentColor" stroke-width="8" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" d="M 0 119.055115 C 0 119.055115 45.354332 59.527557 45.354332 59.527557 C 45.354332 59.527557 0 0 0 0 "/>
                     </g>
                     <g transform="translate(56.69291338582677 70.86614173228347)">
                         <g class="typst-group">
@@ -23,8 +23,8 @@
                                                     <g>
                                                         <g transform="translate(9.71939207062008 17.7734375)">
                                                             <g class="typst-text" transform="scale(1, -1)">
-                                                                <use xlink:href="#gDF808761A74D9D5C02750EC187012D80" x="0" fill="white" fill-rule="nonzero"/>
-                                                                <use xlink:href="#g980A06E3EBD54835A9BBF30FAA3FF083" x="35.107421875" fill="white" fill-rule="nonzero"/>
+                                                                <use xlink:href="#gDF808761A74D9D5C02750EC187012D80" x="0" fill="currentColor" fill-rule="nonzero"/>
+                                                                <use xlink:href="#g980A06E3EBD54835A9BBF30FAA3FF083" x="35.107421875" fill="currentColor" fill-rule="nonzero"/>
                                                             </g>
                                                         </g>
                                                     </g>
