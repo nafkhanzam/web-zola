@@ -21,7 +21,7 @@ minify_html = true
 
 # The taxonomies to be rendered for the site and their configuration.
 taxonomies = [
-  {name = "authors"}, # Basic definition: no feed or pagination
+  { name = "authors" }, # Basic definition: no feed or pagination
 ]
 
 # Whether to build a search index to be used later on by a JavaScript library
@@ -41,8 +41,8 @@ include_content = true
 # Whether to do syntax highlighting.
 # Theme can be customised by setting the `highlight_theme`
 # variable to a theme supported by Zola
-highlight_code = true
-highlight_theme = "dracula"
+# highlight_code = true
+# highlight_theme = "dracula"
 
 [extra]
 # Put all your custom variables here
@@ -61,12 +61,12 @@ language_code = "en-US"
 theme_color = "#fff"
 
 # More about site's title
-title_separator = "-"  # set as |, -, _, etc
+title_separator = "-"      # set as |, -, _, etc
 title_addition = "Website"
 
 
 # Set date format in blog publish metadata
-timeformat = "%e %B %Y" # e.g. 14 June 2021
+timeformat = "%e %B %Y"   # e.g. 14 June 2021
 timezone = "Asia/Jakarta"
 
 # Edit page on reposity or not
@@ -78,7 +78,7 @@ repo_branch = "main"
 # options: true, false. Enable math support globally,
 # default: false. You can always enable math on a per page.
 math = true
-library = "katex"  # options: "katex", "mathjax". default is "katex".
+library = "katex" # options: "katex", "mathjax". default is "katex".
 
 ## Open Graph + Twitter Cards
 [extra.open]
@@ -98,7 +98,7 @@ logo = "logo-doks.png"
 #twitter = "https://twitter.com/nafkhanzam"
 linked_in = "https://www.linkedin.com/in/nafkhanzam/"
 github = "https://github.com/nafkhanzam"
-section = "blog" # see config.extra.main~url
+section = "blog"                                      # see config.extra.main~url
 ## Sitelinks Search Box
 site_links_search_box = true
 
@@ -138,7 +138,7 @@ weight = 20
 
 # Footer contents
 [extra.footer]
-info = '© 2022 - 2025 Moch. Nafkhan Alzamzami — All rights reserved.'
+info = '© 2022 - 2026 Moch. Nafkhan Alzamzami — All rights reserved.'
 
 # [[extra.footer.nav]]
 # name = "Privacy"

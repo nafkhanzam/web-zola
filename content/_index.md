@@ -38,13 +38,13 @@ content = 'I learn practical knowledge by just diving in and learning from my mi
 
 [[extra.list]]
 title = "The Witness (2016)"
-content = 'Is the best game.'
+content = 'is the best game.'
 
 [[extra.list]]
-title = "I Hate Python with a Passion"
-content = 'Dynamically-typed programming languages are a disgrace to humanity. They shouldn&apos;t exist in the first place.'
+title = "Stoicism"
+content = 'is the best philosophy.'
 
 [[extra.list]]
 title = "Whiplash (2014)"
-content = 'Is the best movie.'
+content = 'is the best movie.'
 +++
