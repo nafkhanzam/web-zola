@@ -41,7 +41,7 @@ title = "The Witness (2016)"
 content = 'is the best game.'
 
 [[extra.list]]
-title = "Stoicism"
+title = "Stoicism (300 BCE)"
 content = 'is the best philosophy.'
 
 [[extra.list]]
